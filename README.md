@@ -1,4 +1,4 @@
 # fieldtrip-code
 
-- fieldtrip code for time frequency analysis, ITPC, and source location
+- fieldtrip code of time frequency analysis, ITPC, and source location for group analysis
 - not include preprocessing
